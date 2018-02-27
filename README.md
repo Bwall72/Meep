@@ -7,7 +7,7 @@ To intsall on Ubuntu:
 sudo apt-get install gfortran git gcc g++ make 
 cd ~/ 
 git clone https://github.com/Bwall72/Meep.git
-mv ~/Meep/install.sh 
+mv ~/Meep/install.sh ~/
 chmod +x install.sh
 ./install.sh
 ```
