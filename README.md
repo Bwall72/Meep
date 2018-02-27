@@ -4,7 +4,7 @@ install.sh fixes the package name for python and libpng
 To intsall on Ubuntu:
 
 ```bash
-sudo apt-get install gfortran git gcc g++ make meep
+sudo apt-get install gfortran git gcc g++ make 
 cd ~/ 
 git clone https://github.com/Bwall72/Meep.git
 mv ~/Meep/install.sh 
